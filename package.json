@@ -1,0 +1,24 @@
+{
+  "name": "third-party-cookies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node site.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttyagianjali/third-party-cookies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttyagianjali/third-party-cookies/issues"
+  },
+  "homepage": "https://github.com/ttyagianjali/third-party-cookies#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.2"
+  }
+}
